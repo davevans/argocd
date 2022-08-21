@@ -13,6 +13,6 @@ spec:
   source:
     path: manifests/colourapp
     repoURL: https://github.com/davevans/argocd
-    targetRevision: master
+    targetRevision: production
   syncPolicy:
     automated: {}
